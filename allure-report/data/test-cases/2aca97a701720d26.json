@@ -1,0 +1,113 @@
+{
+  "uid" : "2aca97a701720d26",
+  "name" : "Test 02.5: Log in to nopCommerce with credentials from database",
+  "fullName" : "SanityTests.nopCommerceDB.tc02_5_Login",
+  "historyId" : "3e15d7cf973c287f0aeca965dfcd9d79",
+  "time" : {
+    "start" : 1604709251742,
+    "stop" : 1604709257035,
+    "duration" : 5293
+  },
+  "description" : "Test description: This test shows us login process with credentials from database",
+  "descriptionHtml" : "<p>Test description: This test shows us login process with credentials from database</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1604709251139,
+      "stop" : 1604709251658,
+      "duration" : 519
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1604709241623,
+      "stop" : 1604709251135,
+      "duration" : 9512
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1604709257042,
+      "stop" : 1604709257639,
+      "duration" : 597
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.nopCommerceDB"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.nopCommerceDB"
+  }, {
+    "name" : "testMethod",
+    "value" : "tc02_5_Login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DB tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.nopCommerceDB"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-FQKS7KJ"
+  }, {
+    "name" : "thread",
+    "value" : "11916@DESKTOP-FQKS7KJ.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2aca97a701720d26.json",
+  "parameterValues" : [ "web" ]
+}

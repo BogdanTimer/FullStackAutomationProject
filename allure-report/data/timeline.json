@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-FQKS7KJ",
+    "children" : [ {
+      "name" : "11948@DESKTOP-FQKS7KJ.main(1)",
+      "children" : [ {
+        "name" : "Test 02.5: Log in to nopCommerce with credentials from database",
+        "uid" : "1af3781c1fac2b20",
+        "parentUid" : "0cc2164094cd637f3e02f0b84bac1c14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604709347129,
+          "stop" : 1604709353424,
+          "duration" : 6295
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "0cc2164094cd637f3e02f0b84bac1c14"
+    }, {
+      "name" : "11916@DESKTOP-FQKS7KJ.main(1)",
+      "children" : [ {
+        "name" : "Test 02.5: Log in to nopCommerce with credentials from database",
+        "uid" : "2aca97a701720d26",
+        "parentUid" : "b8ac676f635cd4c65813223336831aa0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604709251742,
+          "stop" : 1604709257035,
+          "duration" : 5293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "b8ac676f635cd4c65813223336831aa0"
+    } ],
+    "uid" : "842bb34c9fe02e3afdaa7ba3786102b7"
+  } ]
+}

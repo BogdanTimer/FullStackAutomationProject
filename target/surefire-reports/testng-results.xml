@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18039" started-at="2020-11-07T00:35:35Z" finished-at="2020-11-07T00:35:54Z">
+    <groups>
+    </groups>
+    <test name="DB tests" duration-ms="18039" started-at="2020-11-07T00:35:35Z" finished-at="2020-11-07T00:35:54Z">
+      <class name="SanityTests.nopCommerceDB">
+        <test-method status="PASS" signature="startSession(java.lang.String)[pri:0, instance:SanityTests.nopCommerceDB@655a5d9c]" name="startSession" is-config="true" duration-ms="9724" started-at="2020-11-07T00:35:36Z" finished-at="2020-11-07T00:35:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSession -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SanityTests.nopCommerceDB@655a5d9c]" name="beforeMethod" is-config="true" duration-ms="1269" started-at="2020-11-07T00:35:45Z" finished-at="2020-11-07T00:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc02_5_Login()[pri:0, instance:SanityTests.nopCommerceDB@655a5d9c]" name="tc02_5_Login" duration-ms="6323" started-at="2020-11-07T00:35:47Z" description="Test 02.5: Log in to nopCommerce with credentials from database" finished-at="2020-11-07T00:35:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_5_Login -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:SanityTests.nopCommerceDB@655a5d9c]" name="closeSession" is-config="true" duration-ms="595" started-at="2020-11-07T00:35:53Z" finished-at="2020-11-07T00:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- SanityTests.nopCommerceDB -->
+    </test> <!-- DB tests -->
+  </suite> <!-- Suite -->
+</testng-results>

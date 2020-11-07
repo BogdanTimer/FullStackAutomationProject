@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test 02.5: Log in to nopCommerce with credentials from database",
+    "uid" : "1af3781c1fac2b20",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604709347129,
+      "stop" : 1604709353424,
+      "duration" : 6295
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "web" ]
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "3e15d7cf973c287f0aeca965dfcd9d79" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1af3781c1fac2b20",
+      "reportUrl" : "http://localhost:8080/job/Full%20Stack%20Final%20Automation%20Project%20Web%20DB/1/allure/#testresult/1af3781c1fac2b20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604709347129,
+        "stop" : 1604709353424,
+        "duration" : 6295
+      }
+    } ]
+  }
+}

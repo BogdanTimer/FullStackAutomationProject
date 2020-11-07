@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "DB tests",
+      "children" : [ {
+        "name" : "SanityTests.nopCommerceDB",
+        "children" : [ {
+          "name" : "Test 02.5: Log in to nopCommerce with credentials from database",
+          "uid" : "1af3781c1fac2b20",
+          "parentUid" : "1499f91d303eeac3107ac0ca082db663",
+          "status" : "passed",
+          "time" : {
+            "start" : 1604709347129,
+            "stop" : 1604709353424,
+            "duration" : 6295
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        } ],
+        "uid" : "1499f91d303eeac3107ac0ca082db663"
+      } ],
+      "uid" : "8d8c0a3c5cf3765388d43e66966a98ef"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

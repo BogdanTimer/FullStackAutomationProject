@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+
+    <!--TimeOut-->
+    <TimeOut>10</TimeOut>
+
+    <!-- Web -->
+    <BrowserName>Chrome</BrowserName>
+    <url>https://demo.nopcommerce.com</url>
+    <imgRep>./imgRep/</imgRep>
+
+    <!-- Mobile -->
+    <UDID>R9WN51BAM6J</UDID>
+    <APP_PACKAGE>com.waze</APP_PACKAGE>
+    <APP_ACTIVITY>.FreeMapAppActivity</APP_ACTIVITY>
+
+    <!-- API -->
+    <apiURL>http://localhost:9000</apiURL>
+
+    <!--- Electron -->
+    <electronDriverPath>./Drivers/electrondriver.exe</electronDriverPath>
+    <electronAppPath>C:/Users/Bogdan/Downloads/Electron/Electron/ElectronAPIDemos.exe</electronAppPath>
+
+    <!-- Desktop -->
+    <app>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</app>
+    <appiumserver>http://localhost:4723</appiumserver>
+
+    <dbUrl>jdbc:mysql://remotemysql.com:3306/rIXt5woYg1</dbUrl>
+    <dbUsername>rIXt5woYg1</dbUsername>
+    <dbPassword>keGNJKcLOI</dbPassword>
+
+</Environment>

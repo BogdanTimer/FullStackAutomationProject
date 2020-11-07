@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Web tests(failed)">
+    <parameter name="PlatformName" value="web"/>
+    <classes>
+      <class name="SanityTests.nopCommerceWeb">
+        <methods>
+          <include name="tc05_completeCheckout"/>
+          <include name="beforeMethod"/>
+          <include name="startSession"/>
+          <include name="closeSession"/>
+        </methods>
+      </class> <!-- SanityTests.nopCommerceWeb -->
+    </classes>
+  </test> <!-- Web tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->

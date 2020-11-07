@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/",
+  "buildOrder" : 1,
+  "buildName" : "Full Stack Final Automation Project Web DB #1",
+  "buildUrl" : "http://localhost:8080/job/Full%20Stack%20Final%20Automation%20Project%20Web%20DB/1/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/job/Full%20Stack%20Final%20Automation%20Project%20Web%20DB/1/allure"
+} ]

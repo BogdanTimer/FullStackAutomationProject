@@ -1,0 +1,11 @@
+[ {
+  "uid" : "1af3781c1fac2b20",
+  "name" : "Test 02.5: Log in to nopCommerce with credentials from database",
+  "time" : {
+    "start" : 1604709347129,
+    "stop" : 1604709353424,
+    "duration" : 6295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Nov 07 02:35:47 IST 2020","Sat Nov 07 02:35:53 IST 2020","6295","Suite","DB tests","SanityTests.nopCommerceDB","SanityTests.nopCommerceDB","tc02_5_Login","Test 02.5: Log in to nopCommerce with credentials from database","Test description: This test shows us login process with credentials from database"
